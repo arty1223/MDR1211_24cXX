@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Startup\\startup_gcc_MDR32F9Q2I.s.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Startup\\startup_gcc_MDR32F9Q2I.s",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Startup\\startup_gcc_MDR32F9Q2I.s",
+  "output": "CMakeFiles\\Milandr-template.dir\\Startup\\startup_gcc_MDR32F9Q2I.s.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\CMSIS\\DeviceSupport\\startup\\system_MDR32F9Q2I.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\CMSIS\\DeviceSupport\\startup\\system_MDR32F9Q2I.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\CMSIS\\DeviceSupport\\startup\\system_MDR32F9Q2I.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\CMSIS\\DeviceSupport\\startup\\system_MDR32F9Q2I.c.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_asm_GCC.S.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_asm_GCC.S",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_asm_GCC.S",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_asm_GCC.S.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\syscalls.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\syscalls.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\syscalls.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\syscalls.c.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_rst_clk.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_rst_clk.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_rst_clk.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_rst_clk.c.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_port.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_port.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_port.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_port.c.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_eeprom.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_eeprom.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_eeprom.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_eeprom.c.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_i2c.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_i2c.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_i2c.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_i2c.c.obj"
+},
+{
+  "directory": "D:/Documents/Milandr/Projects/MDR1211_24cXX/example",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DUSE_MDR32F9Q2I -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/app/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/CoreSupport -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMSIS/DeviceSupport/startup -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL/inc -ID:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/SPL -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_bkp.c.obj -c D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_bkp.c",
+  "file": "D:\\Documents\\Milandr\\Projects\\MDR1211_24cXX\\example\\Drivers\\SPL\\src\\MDR32FxQI_bkp.c",
+  "output": "CMakeFiles\\Milandr-template.dir\\Drivers\\SPL\\src\\MDR32FxQI_bkp.c.obj"
+}
+]

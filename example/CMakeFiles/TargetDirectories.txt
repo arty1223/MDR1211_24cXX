@@ -1,0 +1,5 @@
+D:/Documents/Milandr/Projects/MDR1211_24cXX/example/CMakeFiles/Milandr-template.dir
+D:/Documents/Milandr/Projects/MDR1211_24cXX/example/CMakeFiles/edit_cache.dir
+D:/Documents/Milandr/Projects/MDR1211_24cXX/example/CMakeFiles/rebuild_cache.dir
+D:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMakeFiles/edit_cache.dir
+D:/Documents/Milandr/Projects/MDR1211_24cXX/example/Drivers/CMakeFiles/rebuild_cache.dir
